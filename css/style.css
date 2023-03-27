@@ -30,3 +30,13 @@ img {
 header {
     padding: 1.5em 0;
 }
+
+nav li {
+    list-style-type: none;
+    display: inline;
+    padding: 0;
+}
+
+nav ul {
+    text-align: center;
+}
