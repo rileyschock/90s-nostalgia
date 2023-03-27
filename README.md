@@ -69,7 +69,7 @@
   - Set width to be 100%
   - Add padding to the top and bottom with the value of `10em` and set the left and right value to `0`
   - Add `background-image: url("../images/greatest-90s-fashion-trends.webp");`
-  - Add `background-repeat: no-repeat;`
+  - Add `background-repeatrepeat: no-;`
   - Add `background-size: cover;`
   - Add `background-position: top center;`
   - Note: We will be getting into more about the background property next week so I'm not expecting you to fully understand, just apply.
