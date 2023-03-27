@@ -40,3 +40,8 @@ nav li {
 nav ul {
     text-align: center;
 }
+
+nav ul li a {
+    padding: .5em .75em;
+    border-radius: 8px;
+}
