@@ -82,3 +82,9 @@ nav a:hover, nav a:focus {
 .trends {
     background-color: purple;
 }
+
+.trends figure {
+    width: 22%;
+    display: inline-block;
+    text-align: center;
+}
