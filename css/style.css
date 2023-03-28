@@ -108,3 +108,7 @@ figcaption {
 .icon + p {
     float: left;
 }
+
+.featured-articles {
+    display: none;
+}
