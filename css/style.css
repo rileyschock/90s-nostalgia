@@ -104,3 +104,7 @@ figcaption {
     float: left;
     margin: 2em;
 }
+
+.icon + p {
+    float: left;
+}
