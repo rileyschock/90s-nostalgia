@@ -112,3 +112,8 @@ figcaption {
 .featured-articles {
     display: none;
 }
+
+footer {
+    background-color: black;
+    color: white;
+}
