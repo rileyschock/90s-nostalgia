@@ -7,6 +7,10 @@ html {
     box-sizing: border-box;
 }
 
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
 body {
     margin: 0;
 }
@@ -118,7 +122,7 @@ footer {
     color: white;
 }
 
-footer p {
+footer > p:last-of-type {
     text-align: center;
     padding: 8px 0;
 }
